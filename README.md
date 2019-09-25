@@ -1,2 +1,2 @@
-# CONTROL PROJETS
+# CONTROL PROJECTS
 Diseños y controles de sistemas en Matlab
